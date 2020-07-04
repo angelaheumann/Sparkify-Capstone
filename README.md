@@ -12,6 +12,11 @@ Imagine you are working on the data team for a popular digital music service sim
 * Feature Engineering
 * Modeling
 
+## Libraries used
+* pyspark
+* matplotlib
+* seaborn
+
 ## Run jupyter notebook (local)
 Start either jupyter lab or jupyter notebook and run
 
