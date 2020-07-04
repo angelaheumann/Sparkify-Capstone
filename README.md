@@ -23,3 +23,7 @@ Start either jupyter lab or jupyter notebook and run
 *Sparkify.ipynb*
 
 This notebook uses a tiny subset (128MB) of the full dataset available (12GB). The data file is 7 zipped - please unzip it before use.
+
+## Medium Blog Post
+
+Can be found here: https://medium.com/@angela.heumann/how-to-predict-churns-in-sparkify-ab9a5c3f218d
