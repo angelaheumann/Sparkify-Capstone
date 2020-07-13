@@ -26,4 +26,4 @@ This notebook uses a tiny subset (128MB) of the full dataset available (12GB). T
 
 ## Medium Blog Post
 
-Can be found here: https://medium.com/@angela.heumann/how-to-predict-churns-in-sparkify-ab9a5c3f218d
+Can be found here: https://towardsdatascience.com/how-to-predict-churns-in-sparkify-ab9a5c3f218d
